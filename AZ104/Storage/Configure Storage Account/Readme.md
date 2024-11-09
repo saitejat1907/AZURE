@@ -1,7 +1,7 @@
 # AZ-104 Certification Prep: Azure Storage Accounts Explained
 
 ## 📺 Watch the Video
-[![AZ-104 Exam Prep: Azure Storage Accounts Explained](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/hvdwIqQCJJ0?si=chJ0huPN2P3jiVxN)
+[![AZ-104 Exam Prep: Azure Storage Accounts Explained](https://github.com/saitejat1907/AZURE/blob/main/AZ104/Storage/Configure%20Storage%20Account/a%20business.png)](https://youtu.be/hvdwIqQCJJ0?si=chJ0huPN2P3jiVxN)
 
 ## 📄 Description
 Welcome to my AZ-104 certification series! In this video, we dive into the **Azure Storage module** with a focus on configuring storage accounts. This is an essential topic for the AZ-104 exam, and understanding these concepts will help you effectively manage storage in Azure.
