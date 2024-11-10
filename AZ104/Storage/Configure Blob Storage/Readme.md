@@ -1,7 +1,7 @@
 # AZ-104 Certification Prep: Azure Blob Storage Configuration Explained
 
 ## 📺 Watch the Video
-[![AZ-104 Exam Prep: Azure Blob Storage Configuration Explained](https://github.com/saitejat1907/AZURE/blob/main/AZ104/Storage/Blob%20Storage/a%20business.png)](https://www.youtube.com/watch?v=iV8Q4eodjeU)
+[![AZ-104 Exam Prep: Azure Blob Storage Configuration Explained](https://github.com/saitejat1907/AZURE/blob/main/AZ104/Storage/Configure%20Blob%20Storage/a%20business.png)](https://www.youtube.com/watch?v=iV8Q4eodjeU)
 
 ## 📄 Description
 Welcome to my **AZ-104 certification series**! In this video, we dive deep into **Azure Blob Storage**, a key component of the Azure Storage module. Understanding Azure Blob Storage is crucial for the AZ-104 exam and plays an essential role in managing unstructured data efficiently in the cloud.
