@@ -44,7 +44,7 @@ Welcome to my **AZ-104 certification series**! In this video, we delve into **Az
 - Implementing Security Best Practices for Azure Storage
 
 ## 📚 Additional Resources
-- [Azure Storage Security Documentation](https://learn.microsoft.com/en-us/azure/storage/common/storage-security-guide)
+- [Azure Storage Security Documentation](https://learn.microsoft.com/en-us/training/modules/configure-storage-security/)
 - [AZ-104 Exam Skills Outline](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
 
 <!-- ## 🤝 Connect with Me
