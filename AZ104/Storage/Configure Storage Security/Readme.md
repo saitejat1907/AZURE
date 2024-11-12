@@ -1,7 +1,7 @@
 # AZ-104 Certification Prep: Azure Storage Security Explained
 
 ## 📺 Watch the Video
-[![AZ-104 Exam Prep: Azure Storage Security Explained](https://github.com/saitejat1907/AZURE/blob/main/AZ104/Storage/Storage%20Security/security_thumbnail.png)](https://www.youtube.com/watch?v=0xcyEtJIbHg)
+[![AZ-104 Exam Prep: Azure Storage Security Explained](https://github.com/saitejat1907/AZURE/blob/main/AZ104/Storage/Configure%20Storage%20Security/a%20business.png)](https://www.youtube.com/watch?v=0xcyEtJIbHg)
 
 ## 📄 Description
 Welcome to my **AZ-104 certification series**! In this video, we delve into **Azure Storage Security**, a crucial component of the Azure Storage module. Securing your data in Azure Storage is vital for protecting sensitive information and ensuring compliance with industry standards. This video provides a comprehensive guide to the security features of Azure Storage.
